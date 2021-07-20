@@ -1,2 +1,2 @@
 # react-router-quotes
-Simple app made with React (using react-route).
+Simple app made with React (using react-router).
